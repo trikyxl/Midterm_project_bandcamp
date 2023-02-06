@@ -4,10 +4,11 @@ Simone Broggini and Henrik Gerhard
 
 Repository for our midterm project which will be an analysis of 1,000,000 items from Bandcamp's sales feed between 9/9/2020 and 10/2/2020
 
+Source: https://www.kaggle.com/datasets/mathurinache/1000000-bandcamp-sales?resource=download
+
 Preliminary Research
 
 0. How does bandcamp work? How does bandcamp make profit?
-
 
 Data Visualization 
 
