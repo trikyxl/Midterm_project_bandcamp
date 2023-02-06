@@ -40,10 +40,12 @@ Presentation day
 
 Brainstorming
 
-Insight	Description
-Sales volume	You can get an understanding of the total number of items sold and the breakdown of sales by type (digital albums, physical items, digital tracks).
-Sales by country	You can analyze the geographical distribution of sales, including the number of sales in each country, the most popular countries for sales, and the average amount spent per sale by country.
-Average transaction value	You can calculate the average transaction value by country and by item type.
-Voluntary contributions	You can analyze the data on amount voluntarily paid over the item price to determine the average amount and the impact of these contributions on total sales revenue.
+| Insight | Description |
+| --- | --- |
+| Sales volume | You can get an understanding of the total number of items sold and the breakdown of sales by type (digital albums, physical items, digital tracks). |
+| Sales by country | You can analyze the geographical distribution of sales, including the number of sales in each country, the most popular countries for sales, and the average amount spent per sale by country. |
+| Average transaction value | You can calculate the average transaction value by country and by item type. |
+| Voluntary contributions | You can analyze the data on amount voluntarily paid over the item price to determine the average amount and the impact of these contributions on total sales revenue. |
+
 
 
