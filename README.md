@@ -1,4 +1,7 @@
 # Midterm_project_bandcamp
+
+Simone Broggini and Henrik Gerhard
+
 Repository for our midterm project which will be an analysis of 1.000.000 bandcamp sales
 
 1. Exploratory Data Analysis with Tableau
