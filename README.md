@@ -47,3 +47,4 @@ Average transaction value	You can calculate the average transaction value by cou
 Voluntary contributions	You can analyze the data on amount voluntarily paid over the item price to determine the average amount and the impact of these contributions on total sales revenue.
 
 
+
