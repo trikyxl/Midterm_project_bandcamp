@@ -13,5 +13,29 @@ Preliminary Research
 Data Visualization 
 
 1. Exploratory Data Analysis with Tableau
-2. Visualisation of business related insights
-3. A look into the future: potential recommendation
+2. Visualisation: how do Artists make money on Bandcamp?
+3. A look into the future: potential recommendation for the business
+
+Day 1
+
+Understanding the problem and roadmapping
+Cleaning the data
+
+Day 2
+
+EDA: what does the dataset tells us?
+Identify 3 potential avenues to investigate
+
+Day 3
+
+Visualise business insights and build tableau stories
+
+Day 4
+
+Work on presentation, explain findings
+
+Day 5 
+
+Presentation day
+
+
