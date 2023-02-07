@@ -73,3 +73,6 @@ More potential insights:
 4. Average Sale Price: Calculate the average sale price of items in each currency and compare them to see which currency has the highest average sale price.
 
 5. Amount Paid Over Item Price: Analyze the amount_over_fmt column to determine the amount paid over the item price by customers. Find the average amount paid over the item price and determine if this trend is consistent across different countries.
+
+
+
